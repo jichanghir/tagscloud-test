@@ -1,0 +1,12 @@
+.taginfo {
+  margin-left: 50px; }
+  .taginfo__title {
+    font-size: 20px;
+    margin-bottom: 10px; }
+  .taginfo__row {
+    margin-bottom: 10px; }
+  .taginfo__label {
+    font-size: 14px;
+    color: grey; }
+  .taginfo__value {
+    font-size: 16px; }
